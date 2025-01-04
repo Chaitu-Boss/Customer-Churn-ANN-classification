@@ -4,6 +4,6 @@ After Cloning/Downloading The Repository use the command to download the modules
 
 **pip install -r requirements.txt**
 
-Then run this command to run the app Locally
+Then use this command to run the app Locally
   
 **streamlit run app.py**
